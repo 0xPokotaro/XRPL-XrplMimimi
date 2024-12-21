@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "name": "First Ledger",
+        "description": "XRPLで最速の取引を実現するプラットフォーム",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/48321/firstledger-project-non_dapps-48321-logo-166x166_4fa35b15a6521c5b7a3eb19519cac073.png",
+        "website": "https://firstledger.net/",
+        "categories": [
+            "DeFi"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "XPmarket",
+        "description": "高品質なツールとリソースでXRPレジャーの操作をスムーズに",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46381/xpmarket-dapp-exchanges-46381-logo-166x166_43581d52e4783b30d0c29a1f87c3bbe4.png",
+        "website": "https://xpmarket.com/",
+        "categories": [
+            "DeFi",
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Magnetic",
+        "description": "XRPLで最高のDEXを提供。ファーミング、サイコロゲーム、ブリッジなど、豊富な機能を搭載",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/48708/magnetic-project-exchanges-48708-logo-166x166_ceac92d676f235b0d22036d2f33c19da.png",
+        "website": "https://xmagnetic.org",
+        "categories": [
+            "DeFi",
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "xrp.cafe",
+        "description": "居心地の良いNFTマーケットプレイス",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46378/xrpcafe-dapp-marketplaces-46378-logo-166x166_ac75491487c55b4cb99bfc657780b21e.png",
+        "website": "https://xrp.cafe/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sologenic",
+        "description": "資産取引業界に革新をもたらす",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46385/sologenic-dapp-exchanges-46385-logo-166x166_52851b64db6e26a0b1b311897327140e.png",
+        "website": "https://sologenic.org/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "bidds",
+        "description": "XRPLのトップNFTマーケットプレイス。XRPL dUNLバリデータ、DEX、$OXPユーティリティトークンを提供",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46380/bidds-project-marketplaces-46380-logo-166x166_aefa022e8098a395e8de27d4f96d6fa1.png",
+        "website": "https://bidds.com/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Zerpmon",
+        "description": "XRPLで構築されたクリーチャー収集・バトルゲーム。高品質なアートと奥深い戦闘システムを採用",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46739/zerpmon-project-games-46739-logo-166x166_ef40b0d7783bec9503e357e189d4adec.png",
+        "website": "https://www.zerpmon.world",
+        "categories": [
+            "NFT"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Orchestra Finance",
+        "description": "XRPLで最高のAMM体験を提供",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/48360/orchestrafinance-project-exchanges-48360-logo-166x166_169c909fa099c65432ae15bb4fd5cd62.png",
+        "website": "https://orchestra.finance",
+        "categories": [
+            "DeFi"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "artdept fun",
+        "description": "アートを販売するマーケットプレイス自体がアートであるべき",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/50053/artdeptfun-project-marketplaces-50053-logo-166x166_3941df3bdc5b242d5bdb27aa340f70df.png",
+        "website": "https://www.artdept.fun/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Bithomp",
+        "description": "XRPL NFTエクスプローラー",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/45145/bithomp-dapp-other-45145-logo-166x166_9d29f8ffaa24cdc18433d41a982845e8.png",
+        "website": "https://bithomp.com/",
+        "categories": [
+            "Explorer"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ANODEX",
+        "description": "入出金、取引、流動性提供、アカウント管理が可能なXRPLのワンストップDEX",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/47642/anodex-project-exchanges-47642-logo-166x166_ce6271a0b6721e5f17f81f12946f68c3.png",
+        "website": "https://swap.anodos.finance/",
+        "categories": [
+            "DeFi"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "StaykX",
+        "description": "ソフトステーキングメカニズムを活用してXRPLプロジェクトのホルダー報酬を提供するプロトコル",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46740/staykx-project-defi-46740-logo-166x166_133827a52e473dc8246d1fa3bf3e50bd.png",
+        "website": "https://staykx.com/",
+        "categories": [
+            "DeFi"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "OpulenceX",
+        "description": "高級感とイノベーションが融合したマルチ通貨NFTマーケットプレイス。デジタル資産とDeFiの融合を実現",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/48974/opulencexnftmarketplace-project-marketplaces-48974-logo-166x166_34747ebe51c6a9dd5f03d2af73c42782.png",
+        "website": "https://nftmarketplace.opulencex.io/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "HomeCoin",
+        "description": "住宅ローンを担保とするステーブルコインで、DeFi投資家に安定した利回りを提供",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46451/loansnap-dapp-defi-46451-logo-166x166_a108cc4a3ba483e5610c2f09f0fe396a.png",
+        "website": "https://www.homecoin.finance/",
+        "categories": [
+            "DeFi"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Sonar Muse",
+        "description": "ミュージシャンのための初のNFT音楽ストア＆ストリーミングプラットフォーム。XRPLで世界に向けて開発",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46379/sonarmuse-dapp-marketplaces-46379-logo-166x166_d5cde7c2e0e2dd4caa0009788c7cfc19.png",
+        "website": "https://sonarmuse.org/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "The Shillverse",
+        "description": "XRPLで展開する、進化し続けるユニバースと共同プロジェクト。ソロ開発者による作品",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/47816/theshillverse-project-games-47816-logo-166x166_8d34725c37ad922d04db97a071e0af3f.png",
+        "website": "https://theshillverse.com",
+        "categories": [
+            "NFT"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Dhali",
+        "description": "トークン化されたAPIマーケットプレイス",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46205/dhali-dapp-marketplaces-46205-logo-166x166_d51fa8975811e9bbd19b01b9e89fed54.png",
+        "website": "https://dhali.io/",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Filedgr",
+        "description": "安全で検証可能な証明書と分析を通じて、個人や企業のデータ管理を支援",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/49632/filedgr-project-collectibles-49632-logo-166x166_62a93762c4b498f395c16d8458f32a06.png",
+        "website": "https://filedgr.com",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Mintable",
+        "description": "2018年設立。NFT取引体験の向上に特化した実用的なマーケットプレイス",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/1488/mintable-dapp-marketplaces-ethereum-logo-166x166_040afa89b6329e88303531b7a8823c43.png",
+        "website": "https://mintable.app",
+        "categories": [
+            "NFT Marketplace"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "CollaterArt",
+        "description": "最高のXRPLコレクションが集まるプラットフォーム",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/45403/collaterart-dapp-collectibles-45403-logo-166x166_94dcb77009113b96f6e0ea7fab6743da.png",
+        "website": "https://collaterart.com",
+        "categories": [
+            "NFT"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Moai Finance",
+        "description": "XRPLエコシステムの未開拓の流動性を活用するマルチチェーンDEXおよびクロスチェーンDEXアグリゲーター",
+        "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46552/moaifinance-dapp-exchanges-46552-logo-166x166_bb94d55f080127028a880823abc9b750.png",
+        "website": "https://moai-finance.xyz/",
+        "categories": [
+            "DeFi"
+        ]
+    }
+]
